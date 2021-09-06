@@ -1,0 +1,30 @@
+<root>
+	
+	<Players>
+		<Player1>
+			<name>Player 1</name>
+			<speed>10</speed>
+			<up>119</up>
+			<down>115</down>
+		</Player1>
+
+		<Player2>
+			<name>Player 2</name>
+			<speed>10</speed>
+			<up>1073741906</up>
+			<down>1073741905</down>
+		</Player2>
+	</Players>
+
+	<Ball>
+		<speed>5</speed>
+		<maxspeed>25</maxspeed>
+	</Ball>
+
+	<Game>
+		<maxscore>2</maxscore>
+		
+		<time>60</time>
+		<timer>False</timer>
+	</Game>
+</root>
